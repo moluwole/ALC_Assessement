@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ALC 2.0</string>
+
+    <string name="API_URL">https://www.cryptocompare.com/api/data/coinlist/</string>
+    <string name="API_PRICE">https://min-api.cryptocompare.com/data/price</string>
+    <string name="search">Search</string>
+    <string name="conversion">Convert to</string>
+</resources>
